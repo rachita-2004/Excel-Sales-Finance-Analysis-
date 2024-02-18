@@ -3,7 +3,7 @@
 
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report]https://github.com/rachita-2004/Excel-Sales-Finance-Analysis-/blob/main/customer%20net%20sales_report.pdf
+    **1.** Create a _[customer performance report](https://github.com/rachita-2004/Excel-Sales-Finance-Analysis-/blob/main/customer%20net%20sales_report.pdf)
     **2.** Conduct a comprehensive comparison between _[market performance and sales targets]https://github.com/rachita-2004/Excel-Sales-Finance-Analysis-/blob/main/market%20net%20sales%20performance.pdf
     **3.** Create a _[Division Level report]https://github.com/rachita-2004/Excel-Sales-Finance-Analysis-/blob/main/Division%20Level%20Report.pdf
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
